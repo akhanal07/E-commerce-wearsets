@@ -1,4 +1,4 @@
-# Ayush's E-Commerce Project
+# EchoPulse
 
 A modern full-stack e-commerce application built with Next.js, and Stripe payment integration.
 
