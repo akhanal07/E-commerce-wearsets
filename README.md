@@ -1,6 +1,6 @@
 # Ayush's E-Commerce Project
 
-A modern full-stack e-commerce application built with Next.js, Sanity CMS, and Stripe payment integration.
+A modern full-stack e-commerce application built with Next.js, and Stripe payment integration.
 
 ## Features
 
@@ -9,14 +9,13 @@ A modern full-stack e-commerce application built with Next.js, Sanity CMS, and S
 - Secure checkout with Stripe
 - Responsive design for all devices
 - Server-side rendering with Next.js
-- Content management with Sanity CMS
 
 ## Technologies Used
 
 - **Frontend**: Next.js, React
 - **Styling**: CSS Modules
 - **Backend**: Next.js API Routes
-- **Database**: Sanity CMS
+- **Database**: MongoDB
 - **Payments**: Stripe
 - **Deployment**: Vercel (recommended)
 
@@ -40,9 +39,6 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 STRIPE_WEBHOOK_SECRET=your_stripe_webhook_secret
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
